@@ -12,4 +12,8 @@ BigGun
 ```
 
 3. Spring 整合 Druid 完成 MySQL 数据访问，以及配置 Druid 监控模块整合。
-
+```
+添加Druid配置
+--- Fila
+```
+4. fastJson: FastJsonConfiguration
