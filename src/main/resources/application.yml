@@ -34,3 +34,8 @@ spring:
     hibernate:
       naming:
         strategy: org.hibernate.cfg.ImprovedNamingStrategy
+
+  mvc:
+    view:
+      prefix: /WEB-INF/jsp/
+      suffix: jsp
